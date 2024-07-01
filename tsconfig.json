@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "outDir": "dist",
+    "lib": ["dom", "es2020"],
+    "removeComments": true
+  }
+}
